@@ -3,17 +3,17 @@
 #        main         # MAIN FILE
 #                     #
 #####################################
-#  Author: Cracker911181 ############
+#  Author: Ubermanue ############
 #####################################
 #                            #
-#   CODER :  CRACKER911181   #
+#   CODER :  Vixvus   #
 #                            #
 ##############################
 
 
 
-# Coded by Cracker
-# CRACKER911181
+# Coded by Vixvus
+# Vixvus
 
 
 
