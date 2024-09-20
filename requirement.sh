@@ -12,7 +12,7 @@ pip install bs4
 pip install lolcat
 #pip install -i https://test.pypi.org/simple/ ubermanue-say
 #pip install git+https://github.com/ubermanue/ubermanue_say
-pip install cracker-saying
+pip install ubermanue-saying
 pip install cowsay 
 pip install youtube_dl
 pip install gTTS
